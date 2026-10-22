@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://xsd.minecraft.net/1.0/TextureAtlas.xsd">
+    <ResourceReference id="guide" source="gui/guide.png"/>
+</TextureAtlas>

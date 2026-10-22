@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "obtain_guide": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "challenging_rpg:guide"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "experience": 10
+    }
+}

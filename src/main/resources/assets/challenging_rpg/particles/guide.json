@@ -1,0 +1,8 @@
+{
+    "textures": [
+        "challenging_rpg:particle/guide"
+    ],
+    "lifetime": 20,
+    "motion": [0.0, 0.0, 0.0],
+    "size": 0.5
+}

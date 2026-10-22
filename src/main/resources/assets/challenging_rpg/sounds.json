@@ -1,0 +1,13 @@
+{
+    "subtitles": {
+        "challenging_rpg:guide": "Guide Book"
+    },
+    "sounds": {
+        "challenging_rpg:guide": {
+            "sounds": [
+                "challenging_rpg:guide"
+            ],
+            "subtitle": "challenging_rpg:guide"
+        }
+    }
+}

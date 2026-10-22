@@ -1,0 +1,23 @@
+[[mods]]
+modId="challenging_rpg"
+version="${file.jarVersion}"
+displayName="Challenging RPG Modpack"
+credits="EnderDevelopment"
+authors="EnderDevelopment"
+description='''
+A challenging Minecraft RPG modpack for 1.20.x with hardcore survival, PvP, magic, and deep progression.
+'''
+
+[[dependencies.challenging_rpg]]
+modId="neoforge"
+mandatory=true
+versionRange="[20.4,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.challenging_rpg]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20,1.21)"
+ordering="NONE"
+side="BOTH"
